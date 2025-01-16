@@ -67,8 +67,6 @@ if(!(isset($_SERVER["HTTP_X_PURPOSE"]) AND $_SERVER["HTTP_X_PURPOSE"] == "previe
 }
 ?>
 
-
-
 <!DOCTYPE html>
 <html lang="ja">
 
@@ -321,8 +319,7 @@ if(!(isset($_SERVER["HTTP_X_PURPOSE"]) AND $_SERVER["HTTP_X_PURPOSE"] == "previe
     </div>
     
 
-    <!-- end brand -->
-    <!-- clients -->
+  
    
     
     <!-- end clients -->
